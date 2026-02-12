@@ -6,4 +6,4 @@ export const notify = (message, type) => {
 
 // For local development, point the frontend to your local Express server.
 // Make sure your backend (index.js) is running on this port.
-export const API_URL = 'http://localhost:8080';
+export const API_URL = 'https://mern-task-manager-app-deploy-api-xi.vercel.app';
