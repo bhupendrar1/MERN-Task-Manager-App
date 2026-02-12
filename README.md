@@ -13,9 +13,14 @@ A full-stack **Task Manager Application** built using the **MERN Stack (MongoDB,
 * React Icons
 * React Toastify
 
-Main Component: `TaskManager.js` fileciteturn3file0
-API Calls: `api.js` fileciteturn3file1
-Utilities & API URL: `utils.js` fileciteturn3file2
+# Deploy 
+
+<img width="1920" height="1080" alt="Screenshot (297)" src="https://github.com/user-attachments/assets/21ae4863-3d0e-4369-905f-d7f8a1dbac76" />
+
+
+Main Component: `TaskManager.js` .
+API Calls: `api.js` .
+Utilities & API URL: `utils.js` .
 
 ### 🔹 Backend
 
@@ -26,11 +31,11 @@ Utilities & API URL: `utils.js` fileciteturn3file2
 * CORS
 * dotenv
 
-Server Entry: `index.js` fileciteturn3file3
-Routes: `TaskRouter.js` fileciteturn3file4
-Database Config: `db.js` fileciteturn3file5
-Model: `TaskModel.js` fileciteturn3file6
-Controller: `TaskController.js` fileciteturn3file7
+Server Entry: `index.js`.
+Routes: `TaskRouter.js` .
+Database Config: `db.js` .
+Model: `TaskModel.js` .
+Controller: `TaskController.js`.
 
 ---
 
@@ -92,6 +97,7 @@ http://localhost:8080
 cd client
 npm install
 npm start
+to start both backened & frontend project - npm start
 ```
 
 Frontend runs on:
@@ -147,6 +153,3 @@ MERN Stack Developer
 ⭐ If you like this project, consider giving it a star on GitHub!
 
 
-
-
-to start both backened & frontend project - npm start
